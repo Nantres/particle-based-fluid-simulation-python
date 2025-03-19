@@ -162,7 +162,7 @@ def gravity_and_density(smoothing_radius: ti.f32, gravity_value: ti.f32):
     for i in positions:
         velocities[i] += gravity_vector * time_delta
         densities[i] = calculate_density(positions[i], smoothing_radius)
-        update_position(I)
+        update_position(i)
 
 # runs once only at the start
 @ti.kernel
