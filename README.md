@@ -11,5 +11,13 @@ controls:
 
 `hand_camera.py`:
 
-https://github.com/user-attachments/assets/17e1aca1-d0db-4eb7-8238-c488a5806dbd
+https://github.com/user-attachments/assets/281fb292-c7ae-4012-996f-3a026f1c6d9f
+
+`fluid simulation.py`:
+
+https://github.com/user-attachments/assets/95cd4620-c2f6-4e06-bb82-73d0b349287e
+
+`fluid simulation gui only.py`:
+
+https://github.com/user-attachments/assets/c574eea5-65b9-4ddd-bcd5-15ae76d03555
 
